@@ -2,3 +2,4 @@ newfile
 
 
 something new
+dima new
