@@ -1,6 +1,10 @@
 newfile
 
 
+
 some new text
 
+something new
+
+dima new
 
